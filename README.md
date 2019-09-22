@@ -1,5 +1,5 @@
 # Line-Following-Robot-Team-Project
-Working in a team of 5 to build and program a line following robot. 
+Worked in a team of 5 to build and program a line following robot. 
 
 As part of the project I collaborated with another memeber to desing the robot using SolidWorks. The design was as shown below: 
 
